@@ -13,7 +13,7 @@ The idea of this rampup is to learn the basic tools needed to start working in t
 
 ## Exercise 2
 * Create a github repository 
-* Upload the test app into it
+* Upload the test app https://github.com/acalder88/springboot into it
 * Create a jenkins pipeline which will be triggered by a webhook, build the test app, run the tests, package it into a docker image and publish it in a docker repository (ECR recommended)
 
 ## Exercise 3
