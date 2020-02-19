@@ -22,6 +22,6 @@ The idea of this rampup is to learn the basic tools needed to start working in t
 * Complete this tutorial [eks/beginner](https://eksworkshop.com/beginner/)
 
 ## Exercise 4
-* Add an step to the pipeline create in Exercise 2, which will deploy the docker image into the EKS cluster using helm
+* Add an step to the pipeline create in Exercise 2, which will deploy the docker image into the EKS cluster using helm in high availability
 * Enable the test app to be accesed from the internet
 
