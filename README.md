@@ -9,7 +9,7 @@ The idea of this rampup is to learn the basic tools needed to start working in t
 
 ## Exercise 1
 * Create an ansible script using packer capable of creating a Jenkins instance VM
-* Create a terraform deploy capable of deploying Jenkins instance in aws in high availability
+* Create a terraform deploy capable of deploying Jenkins instance
 
 ## Exercise 2
 * Create a github repository 
