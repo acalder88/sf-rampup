@@ -15,7 +15,7 @@ The idea of this rampup is to learn the basic tools needed to start working in t
 * Create a github repository 
 * Upload the test app https://github.com/acalder88/springboot into it
 * Create a jenkins multi-branch pipeline which will be triggered by a webhook
-* Create a Jenkins file which will build the test app, run the tests, package it into a docker image and publish it in a docker repository (ECR recommended)
+* Create a Jenkins file which will build the test app, run the tests, package it into a docker image and publish it into a docker repository (ECR recommended)
 
 ## Exercise 3
 * Create a terraform deploy capable of creating an EKS cluster in aws
@@ -23,6 +23,6 @@ The idea of this rampup is to learn the basic tools needed to start working in t
 * Complete this tutorial [eks/beginner](https://eksworkshop.com/beginner/)
 
 ## Exercise 4
-* Add an step to the pipeline create in Exercise 2, which will deploy the docker image into the EKS cluster using helm in high availability
+* Add an step to the pipeline created in Exercise 2, which will deploy the docker image into the EKS cluster using helm in high availability
 * Enable the test app to be accesed from the internet
 
